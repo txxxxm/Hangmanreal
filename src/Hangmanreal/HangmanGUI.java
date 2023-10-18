@@ -88,18 +88,7 @@ public class HangmanGUI {
                     if(fehler==1){
                         Grafik.setText("\n\n\n\n\n\n\n\n=====================");
                     }
-                    if(fehler==2){
-                        Grafik.setText("\n\n\n\n\n\n\n\nmoinsen");
-                    }
-                    if(fehler==3){
-                        Grafik.setText("\n\n\n\n\n\n\n\npri");
-                    }
-                    if(fehler==4){
-                        Grafik.setText("\n\n\n\n\n\n\n\nhallo");
-                    }
-                    if(fehler==5){
-                        Grafik.setText("\n\n\n\n\n\n\n\nmoin");
-                    }
+
 
 
 
